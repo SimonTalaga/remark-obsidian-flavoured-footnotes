@@ -4,7 +4,9 @@ Footnotes are created by typing `^[Footnote content]` wherever one desires, so t
 For instance, the following Markdown paragraph :
 
 ```md
-Lorem ipsum odor amet^[Von Dughâto, P. (1922). *Un Livre exceptionnel*. pp. 110-117], consectetuer adipiscing elit. Est magnis cras auctor donec netus vel mus. Elementum quisque massa risus aliquet class dictum consequat. Nostra nam finibus orci senectus orci orci^[*Ibid*. p. 137] aenean neque. Est luctus bibendum magnis fames lobortis. Justo leo pharetra lacinia et bibendum elementum eget varius.^[*Ibid*. p. 284] Rhoncus consectetur massa vehicula tellus habitasse non tempor congue. Est dignissim justo vulputate interdum elit. Vel ad viverra fermentum augue integer cubilia neque pretium.
+Lorem ipsum odor amet^[Von Dughâto, P. (1922). *Un Livre exceptionnel*. pp. 110-117], consectetuer adipiscing elit.
+Est magnis cras auctor donec netus vel mus. Elementum quisque massa risus aliquet class dictum consequat. Nostra nam finibus orci senectus orci orci^[*Ibid*. p. 137] aenean neque.
+Est luctus bibendum magnis fames lobortis. Justo leo pharetra lacinia et bibendum elementum eget varius.^[*Ibid*. p. 284] Rhoncus consectetur massa vehicula tellus habitasse non tempor congue. Est dignissim justo vulputate interdum elit. Vel ad viverra fermentum augue integer cubilia neque pretium.
 ```
 
 ... will yield the following abstract syntax tree (AST) :
