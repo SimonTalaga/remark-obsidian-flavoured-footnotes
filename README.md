@@ -1,6 +1,6 @@
 # remark-obsidian-flavoured-footnotes
 A remark plugin that parses a file searching for [Obsidian](https://obsidian.md)-style footnotes markup, and then creates a footnotes section at the end of the AST.
-Footnotes are created by typing `^[Footnote content]` wherever one desires, so that the writer never has to bother about the right indexes : they are automatically computed by the plugin. 
+Footnotes are created by typing `^[Footnote content]` wherever one desires, so that the writer does not break her line of thought and never has to bother about the right indexes : they are automatically computed by the plugin. 
 For instance, the following Markdown paragraph :
 
 ```md
