@@ -231,7 +231,7 @@ Est luctus bibendum magnis fames lobortis. Justo leo pharetra lacinia et bibendu
 ```html
 <p>Lorem ipsum odor amet<sup><a href="#user-content-fn-footnote-1" id="user-content-fnref-footnote-1" data-footnote-ref="" aria-describedby="footnote-label">1</a></sup>, consectetuer adipiscing elit. Est magnis cras auctor donec netus vel mus. Elementum quisque massa risus aliquet class dictum consequat. Nostra nam finibus orci senectus orci orci<sup><a href="#user-content-fn-footnote-2" id="user-content-fnref-footnote-2" data-footnote-ref="" aria-describedby="footnote-label">2</a></sup> aenean neque. Est luctus bibendum magnis fames lobortis. Justo leo pharetra lacinia et bibendum elementum eget varius.<sup><a href="#user-content-fn-footnote-3" id="user-content-fnref-footnote-3" data-footnote-ref="" aria-describedby="footnote-label">3</a></sup> Rhoncus consectetur massa vehicula tellus habitasse non tempor congue.</p>
 <section data-footnotes="" class="footnotes">
-   <hr class="sr-only" id="footnote-label"/>
+   <h2 class="sr-only" id="footnote-label">Footnotes</h2>
    <ol>
       <li id="user-content-fn-footnote-1">
          <p>Von Dughâto, P. (1922). <em>Un Livre exceptionnel</em>. pp. 110-117 <a href="#user-content-fnref-footnote-1" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
