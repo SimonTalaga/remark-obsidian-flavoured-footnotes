@@ -1,0 +1,24 @@
+{
+  "name": "remark-obsidian-footnotes",
+  "version": "1.0.0",
+  "description": "A remark plugin that parses a file searching for Obsidian-style footnotes markup, and then creates a footnotes section at the end of the AST.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonTalaga/remark-obsidian-flavoured-footnotes.git"
+  },
+  "keywords": [
+    "remark",
+    "footnotes",
+    "obsidian"
+  ],
+  "author": "Simon Talaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonTalaga/remark-obsidian-flavoured-footnotes/issues"
+  },
+  "homepage": "https://github.com/SimonTalaga/remark-obsidian-flavoured-footnotes#readme"
+}

@@ -1,4 +1,4 @@
-export function obsidianFlavouredFootnotes() {
+export default function obsidianFlavouredFootnotes() {
   return (tree) => {
     let footnoteIndex = 1;
     const footnotes = [];
