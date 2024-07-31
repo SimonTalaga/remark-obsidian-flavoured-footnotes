@@ -233,7 +233,7 @@ Est luctus bibendum magnis fames lobortis. Justo leo pharetra lacinia et bibendu
   }
 }
 ```
-... And, using `remark-rehype`, the following HTML :
+... And, using [`remark-rehype`](https://github.com/remarkjs/remark-rehype), the following HTML :
 
 ```html
 <p>Lorem ipsum odor amet<sup><a href="#user-content-fn-footnote-1" id="user-content-fnref-footnote-1" data-footnote-ref="" aria-describedby="footnote-label">1</a></sup>, consectetuer adipiscing elit. Est magnis cras auctor donec netus vel mus. Elementum quisque massa risus aliquet class dictum consequat. Nostra nam finibus orci senectus orci orci<sup><a href="#user-content-fn-footnote-2" id="user-content-fnref-footnote-2" data-footnote-ref="" aria-describedby="footnote-label">2</a></sup> aenean neque. Est luctus bibendum magnis fames lobortis. Justo leo pharetra lacinia et bibendum elementum eget varius.<sup><a href="#user-content-fn-footnote-3" id="user-content-fnref-footnote-3" data-footnote-ref="" aria-describedby="footnote-label">3</a></sup> Rhoncus consectetur massa vehicula tellus habitasse non tempor congue.</p>
